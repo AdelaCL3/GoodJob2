@@ -1,2 +1,4 @@
 hago cambios en la web tras clickar en el enlace de tortoise
  voya ver que ha pasado en  doc del ordenador
+HE CONSEGUIDO  BAJARLO AL ORDENADOR PERO AUN NO SÉ COMO MODIFICARLO 
+TAMPOCO SE  QUE DIFERENCIAS HAY ENTRE LAS DOS APLCACIONES  TORTOISE Y  GIT
