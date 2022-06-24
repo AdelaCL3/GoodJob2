@@ -2,3 +2,8 @@ hago cambios en la web tras clickar en el enlace de tortoise
  voya ver que ha pasado en  doc del ordenador
 HE CONSEGUIDO  BAJARLO AL ORDENADOR PERO AUN NO SÉ COMO MODIFICARLO 
 TAMPOCO SE  QUE DIFERENCIAS HAY ENTRE LAS DOS APLCACIONES  TORTOISE Y  GIT
+
+HE CONSEGUIDO ACTUALIZAR EL DOC EN LOCAL CON TORTOISE GIT CLONE
+VOY A PROBAR OPCIÓN TORTOISE SIN
+NO CONSIGO SINCRONIZAR CON WEB
+24/06 vuelvo a probar si me sincroniza cambios en la wwb
